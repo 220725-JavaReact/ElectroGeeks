@@ -1,0 +1,27 @@
+info	2022-08-02T14:57:27.592682400	Application Start
+info	2022-08-02T14:57:27.614681900	Adding the electronic to tempory storage
+info	2022-08-02T14:57:27.619683100	Add to electronicList[0]: Product Name : iPhone
+Product Model : 13 Pro Max
+Product Description : iPhone 13 Pro takes a huge leap forward, bringing incredible speed to everything you do and dramatic new photo and video capabilities — all in two great sizes.
+Product Price : 1299.99
+Product average rating: 0 (0)
+Store Recommendation: Bestbuy, Amazon, Walmart
+info	2022-08-02T14:57:27.620683300	Add to electronicList[1]: Product Name : iPad
+Product Model : Mini
+Product Description : iPad mini is meticulously designed to be absolutely beautiful. An all-new enclosure features a new, larger edge-to-edge screen, along with narrow borders and elegant rounded corners.
+Product Price : 799.99
+Product average rating: 0 (0)
+Store Recommendation: Bestbuy, Amazon, Walmart
+info	2022-08-02T14:57:27.621681900	Add to electronicList[2]: Product Name : airPod
+Product Model : Pro
+Product Description : A super-efficient high dynamic range amplifier produces pure, incredibly clear sound while also extending battery life.
+Product Price : 199.99
+Product average rating: 0 (0)
+Store Recommendation: Bestbuy, Amazon, Walmart
+info	2022-08-02T14:57:27.621681900	Add to electronicList[3]: Product Name : Apple Watch
+Product Model : Series 7 - regular band
+Product Description : Apple Watch can do what your other devices can’t because it’s on your wrist. When you wear it, you get a fitness partner that measures all the ways you move, meaningful health insights, and a connection to the people and things you care about most. And it’s always just a glance away.
+Product Price : 399.99
+Product average rating: 0 (0)
+Store Recommendation: Bestbuy, Amazon, Walmart
+info	2022-08-02T14:57:36.768682800	Set rating: 3
